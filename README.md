@@ -1,11 +1,16 @@
-## Hi there 👋
-
+## Boas vindas ao meu perfil💜
+ Meu nome é Giovanna dos Santos Costa
+- I'm currently studiyng on Alura.
+- I'm currently learning on the language javascript.
+- I use this space to my organization and share of my develop projects.
+ ## You can contact me📫
+ giovannacostakg245@gmail.comm
 <!--
 **Giovannasss/Giovannasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studiyng on Alura ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
